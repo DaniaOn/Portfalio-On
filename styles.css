@@ -1,0 +1,39 @@
+section{
+    height:400px;
+    background-color: #dae0f5;
+}
+
+.hero{
+    background-color: #0b0b3b;
+    color:#dae0f5;
+    font-size: 30px;
+    lighting-color: #dae0f5;
+
+}
+
+footer{
+    height:300px;
+    background-color: #0b0b3b;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    list-style-type: none ;
+    width: 500px;
+    justify-content: space-around;
+
+}
+
+li{
+    text-decoration: none;
+}
+
+h1{
+    font-size: 85px;
+}
+
