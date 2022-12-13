@@ -1,1 +1,38 @@
-# Portfalio-On
+# My Portfalio-On
+
+Description
+This portfolio will give you a summary of who I am and what I have learned in this Bootcamp and the projects I have participated in. A long path to go and a many good changes for this big project to get done.
+
+Installation
+N/A
+
+Mock-Up
+The following image shows the my portfolio appearance and functionality: 
+
+Usage
+The main reason for a portfolio is to give individuals the opportunity to reflect on projects, and goals and track growth over time. In short words a summary of their learnings and career. 
+
+Credits
+N/A
+
+MIT License
+
+Copyright (c) 2022 DaniaOn
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
