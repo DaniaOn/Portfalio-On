@@ -1,4 +1,4 @@
-# My Portfalio-On
+# My Portfolio-On
 
 ## Description
 This portfolio will give you a summary of who I am and what I have learned in this Bootcamp and the projects I have participated in. A long path to go and a many good changes for this big project to get done.
@@ -8,6 +8,7 @@ N/A
 
 ## Mock-Up
 The following image shows the my portfolio appearance and functionality: 
+![My portfolio](./Portfalio-On/assets/Mockup.png)
 
 ## Usage
 The main reason for a portfolio is to give individuals the opportunity to reflect on projects, and goals and track growth over time. In short words a summary of their learnings and career. 
